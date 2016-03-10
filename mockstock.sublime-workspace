@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"av",
+				"avgkl_dist"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pe",
+				"pearson_sim"
+			],
+			[
+				"sum",
+				"sum2"
+			],
+			[
+				"sqs",
+				"sqsum2"
+			],
+			[
+				"pr",
+				"prod"
+			],
+			[
+				"term",
+				"terms2"
+			],
+			[
+				"arr",
+				"arrangedoutput1"
+			],
+			[
+				"s",
+				"stemmedoutput1"
+			],
+			[
+				"terms",
+				"terms1"
+			],
+			[
+				"ter",
+				"term2"
+			],
+			[
+				"Th",
+				"THREHSHOLD"
+			],
+			[
+				"w",
+				"word_length"
+			],
+			[
+				"te",
+				"term2"
+			],
+			[
+				"word",
+				"word_length"
+			],
+			[
+				"len",
+				"len_normalize"
+			],
+			[
+				"occ",
+				"occur1"
+			],
+			[
+				"doc",
+				"doc_len1"
+			],
+			[
+				"cos",
+				"cosine_sum1"
+			],
+			[
+				"st",
+				"stemmedoutput2"
+			],
+			[
+				"stemmed",
+				"stemmedoutput1"
+			],
+			[
+				"tid",
+				"tidyoutput2"
+			],
+			[
+				"ti",
+				"tidyoutput1"
+			],
+			[
+				"cr",
+				"cosine_prod"
+			],
+			[
+				"c",
+				"cosine_sim"
+			],
+			[
+				"co",
+				"cosine_sum1"
+			],
+			[
+				"cosine",
+				"cosine_sum2"
+			],
+			[
+				"oc",
+				"occur2"
+			],
+			[
+				"e",
+				"euclid_sum"
+			],
+			[
+				"o",
+				"occur2"
+			],
+			[
+				"euc",
+				"euclid_traverse"
+			],
+			[
+				"euclid",
+				"euclid_sum"
+			],
+			[
+				"lo",
+				"loaded2"
+			],
+			[
+				"base",
+				"base_trie"
+			],
+			[
+				"bas",
+				"base_trie"
+			],
+			[
+				"L",
+				"LENGTH"
+			],
+			[
+				"check",
+				"check_stop"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"stop",
+				"stop_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: C"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zafar/Documents/mockstock/src"
+	],
+	"file_history":
+	[
+		"/home/zafar/Documents/mockstock/mockstock/mockstock/urls.py",
+		"/home/zafar/Dropbox/Web/cs50finance/src/templates/base.html",
+		"/home/zafar/Dropbox/Web/cs50finance/src/templates/navbar.html",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/docsim.h",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/porter.c",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/input2.txt",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/input1.txt",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/input3.txt",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/docsim.c",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/tidyword.sh",
+		"/home/zafar/Desktop/CollegeStuff/TidyWord/stemmedoutput1.txt",
+		"/home/zafar/Documents/TidyWord/tidy.h",
+		"/home/zafar/Documents/TidyWord/tidyword.sh",
+		"/home/zafar/Documents/TidyWord/docsim.h",
+		"/home/zafar/Documents/TidyWord/arrangedoutput1.txt",
+		"/home/zafar/Documents/TidyWord/arrangedoutput2.txt",
+		"/home/zafar/Documents/TidyWord/docsim.c",
+		"/home/zafar/Documents/TidyWord/input1.txt",
+		"/home/zafar/Documents/TidyWord/input2.txt",
+		"/home/zafar/Documents/GSOC/apertium-urd/apertium-urd.urd.dix",
+		"/home/zafar/Documents/TidyWord/tidyword.c",
+		"/home/zafar/Documents/GSOC/apertium-urd/apertium-urd.urd.rlx",
+		"/home/zafar/Documents/TidyWord/sal.bash",
+		"/home/zafar/Documents/TidyWord/base.txt",
+		"/home/zafar/Documents/TidyWord/porter.c",
+		"/home/zafar/Documents/TidyWord/README.md",
+		"/home/zafar/Documents/TidyWord/waj.txt",
+		"/home/zafar/Documents/TidyWord/sal.txt",
+		"/home/zafar/Documents/TidyWord/big.txt",
+		"/home/zafar/Documents/TidyWord/stop.txt",
+		"/home/zafar/Documents/TidyWord/aseed.txt",
+		"/home/zafar/Documents/TidyWord/input.txt",
+		"/home/zafar/Desktop/college/port.c",
+		"/home/zafar/Desktop/sal.c",
+		"/home/zafar/Desktop/college/tf.c",
+		"/home/zafar/Desktop/college/stopper.h",
+		"/home/zafar/Desktop/college/base.c",
+		"/home/zafar/Desktop/college/base.h",
+		"/home/zafar/Desktop/college/baseunique.txt",
+		"/home/zafar/Desktop/college/yasir.txt",
+		"/home/zafar/Desktop/college/common.h",
+		"/home/zafar/Desktop/college/translate.py",
+		"/home/zafar/Desktop/college/uniqu.py",
+		"/home/zafar/Desktop/college/salout.txt",
+		"/home/zafar/Desktop/college/salin.txt",
+		"/home/zafar/Desktop/college/stopper.h.gch",
+		"/home/zafar/Desktop/fact.h",
+		"/home/zafar/Desktop/college/stopwords.txt",
+		"/home/zafar/Desktop/college/salma.txt",
+		"/home/zafar/Dropbox/CS50/pset5/speller.c",
+		"/usr/share/applications/defaults.list",
+		"/home/zafar/Desktop/college/sal.txt",
+		"/home/zafar/Desktop/abs(1).txt",
+		"/home/zafar/Documents/ML101/Assignments/ex1/LinearRegression.py",
+		"/home/zafar/Desktop/abhi.c",
+		"/home/zafar/Desktop/paint.c"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"doc_len",
+			"term1",
+			"60",
+			"talk",
+			"your",
+			"switch",
+			"tuna",
+			"t",
+			"tuna",
+			"0.6",
+			"text",
+			"latest",
+			"founded",
+			"oriented",
+			"inconsistency",
+			"hola",
+			"inconsis",
+			"schema",
+			"schemas",
+			"recursion",
+			"tuple",
+			"approach",
+			"inconsis",
+			"define",
+			"stop",
+			"27",
+			"f",
+			"is",
+			"boy",
+			"gedit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"swt",
+			"base",
+			"sublime_text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mockstock.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
