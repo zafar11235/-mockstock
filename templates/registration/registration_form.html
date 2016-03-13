@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+
+{% load i18n %}
+
+
+{% block content %}
+
+<div class="container center full-window">
+<div class="section">
+<div class="row">
+<div class="col s12">
+<h3><i class="mdi-content-send brown-text"></i></h3>
+<h4>Register</h4>
+<p class="left-align light">
+<form method="post" action=".">
+
+  {% csrf_token %}
+  {{ form | crispy }}
+  <div class="form-group fgroup">
+    <input class='btn btn-primary' type="submit" value="{% trans 'Join' %}" />
+  </div>
+</form>
+</p>
+</div>
+</div>
+
+</div>
+</div>
+
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+

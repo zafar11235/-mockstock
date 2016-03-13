@@ -1,1 +1,15 @@
-{{ title }}
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+  {% include 'banner.html' %}
+	
+  {% include 'info.html' %}
+  {% if request.user.is_authenticated %}
+  {% else %}
+  	{% include 'parallax1.html' %}
+  {% endif %}
+
+  {% include 'container.html' %}
+
+{% endblock %}

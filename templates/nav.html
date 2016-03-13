@@ -1,0 +1,18 @@
+ <div class="fixed-action-btn ">
+ <!--      <a href="#" data-activates="nav-mobile" class="button-collapse top waves-effect waves-light waves-circle circle btn-floating teal lighten-3"><i class="mdi-navigation-menu"></i></a> -->
+  <a href="#" data-activates="nav-mobile" class="button-collapse top waves-effect waves-light waves-circle circle btn-floating teal"><i class="mdi-navigation-menu"></i></a> 
+</div>
+
+<ul id="nav-mobile" class="side-nav">
+  <li class="slide-li"><a href="{% url 'home'  %}" class="waves-effect waves-teal">SCONJ</a></li>
+  {% if request.user.is_authenticated %}
+  		<li class="slide-li"><a href="{% url 'auth_logout'  %}" class="waves-effect waves-teal">Logout</a></li>
+  {% else %}
+    <li class="slide-li"><a href="{% url 'auth_login'  %}" class="waves-effect waves-teal">Login</a></li>
+    <li class="slide-li"><a href="{% url 'registration_register'  %}" class="waves-effect waves-teal">Register</a></li>
+  {% endif %}
+  <li class="slide-li"><a href="#" class="waves-effect waves-teal">Quote of the Day</a></li>
+  <li class="slide-li"><a href="#" class="waves-effect waves-teal">About</a></li>
+  <li class="slide-li"><a href="{% url 'contact'  %}" class="waves-effect waves-teal">Contact</a></li>
+
+</ul>

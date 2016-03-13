@@ -4,12 +4,140 @@
 		"selected_items":
 		[
 			[
-				"av",
-				"avgkl_dist"
+				"mater",
+				"materialize"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mat",
+				"materialize"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"cri",
+				"crispy_forms_tags"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background1"
+			],
+			[
+				"ma",
+				"materialize"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"to",
+				"to_email"
+			],
+			[
+				"fro",
+				"from_email"
+			],
+			[
+				"contact",
+				"contact_message"
+			],
+			[
+				"conta",
+				"contact_message"
+			],
+			[
+				"fr",
+				"from_email"
+			],
+			[
+				"EMA",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"Co",
+				"ContactForm"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"home",
+				"home"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"ins",
+				"instance"
+			],
+			[
+				"SignUp",
+				"SignUpForm"
 			],
 			[
 				"re",
-				"return"
+				"request"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"Si",
+				"SignUpForm"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"av",
+				"avgkl_dist"
 			],
 			[
 				"pe",
@@ -116,10 +244,6 @@
 				"occur2"
 			],
 			[
-				"e",
-				"euclid_sum"
-			],
-			[
 				"o",
 				"occur2"
 			],
@@ -163,6 +287,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "templates/container.html",
+			"settings":
+			{
+				"buffer_size": 2292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/info.html",
+			"settings":
+			{
+				"buffer_size": 1686,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -171,22 +311,27 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 54.0,
+		"last_filter": "package",
 		"selected_items":
 		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
 			[
 				"",
 				"Set Syntax: C"
 			]
 		],
-		"width": 404.0
+		"width": 392.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 148.0,
 		"history":
 		[
+			"on_query_completion"
 		]
 	},
 	"distraction_free":
@@ -200,10 +345,63 @@
 	},
 	"expanded_folders":
 	[
-		"/home/zafar/Documents/mockstock/src"
+		"/home/zafar/Documents/mockstock/src",
+		"/home/zafar/Documents/mockstock/src/mockstock",
+		"/home/zafar/Documents/mockstock/src/newsletter",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static/css",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static/img",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static/js",
+		"/home/zafar/Documents/mockstock/src/templates"
 	],
 	"file_history":
 	[
+		"/home/zafar/Documents/mockstock/src/templates/registration/activation_complete.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_reset_form.html",
+		"/home/zafar/Documents/mockstock/src/templates/home.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_reset_email.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_reset_confirm.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/login.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/registration_form.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/activation_email.txt",
+		"/home/zafar/Documents/mockstock/src/templates/container.html",
+		"/home/zafar/Documents/mockstock/src/templates/parallax1.html",
+		"/home/zafar/Documents/mockstock/src/templates/base.html",
+		"/home/zafar/Documents/mockstock/src/templates/nav.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/logout.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/registration_complete.html",
+		"/home/zafar/Documents/mockstock/src/newsletter/views.py",
+		"/home/zafar/Documents/mockstock/src/templates/contact.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/registration_closed.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_reset_done.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_reset_complete.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_change_form.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/password_change_done.html",
+		"/home/zafar/Documents/mockstock/src/templates/registration/activate.html",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static/css/style.css",
+		"/home/zafar/Documents/mockstock/src/templates/form.html",
+		"/home/zafar/Documents/mockstock/src/mockstock/urls.py",
+		"/home/zafar/Documents/mockstock/src/mockstock/settings.py",
+		"/home/zafar/Documents/mockstock/src/templates/banner.html",
+		"/home/zafar/Documents/mockstock/src/templates/parallax2.html",
+		"/home/zafar/Documents/mockstock/src/newsletter/forms.py",
+		"/home/zafar/Documents/mockstock/src/templates/info.html",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static/js/init.js",
+		"/home/zafar/Documents/mockstock/src/templates/footer.html",
+		"/home/zafar/Documents/mockstock/src/templates/form_container.html",
+		"/home/zafar/Documents/mockstock/src/newsletter/nav.html",
+		"/home/zafar/Downloads/parallax-template/index.html",
+		"/home/zafar/Documents/mockstock/src/static_in_pro/our_static/img/example.txt",
+		"/home/zafar/Documents/mockstock/src/newsletter/admin.py",
+		"/home/zafar/Documents/mockstock/src/newsletter/models.py",
+		"/home/zafar/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/zafar/.config/sublime-text-3/Packages/User/sal.py",
+		"/home/zafar/.config/sublime-text-3/Packages/User/autocomplete_all.py",
+		"/home/zafar/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/zafar/Documents/mockstock/src/mockstock.sublime-project",
+		"/home/zafar/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/zafar/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/zafar/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
 		"/home/zafar/Documents/mockstock/mockstock/mockstock/urls.py",
 		"/home/zafar/Dropbox/Web/cs50finance/src/templates/base.html",
 		"/home/zafar/Dropbox/Web/cs50finance/src/templates/navbar.html",
@@ -263,7 +461,7 @@
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -277,6 +475,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
+			"SignUpForm",
+			"project",
 			"doc_len",
 			"term1",
 			"60",
@@ -327,8 +528,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "templates/container.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1056,
+								1056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 915.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/info.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1686,
+								1686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -338,7 +600,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -409,7 +671,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 161.0,
+	"side_bar_width": 324.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
